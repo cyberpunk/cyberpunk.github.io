@@ -1,15 +1,15 @@
 <pre>
-  ╔══[ A.13 ]═════════════════════════════════════════════════════════════════════════════════════[ X ]══╗
-  ║   _____ _____     _____ __  _____ _____ _____                                                        ║
-  ║  |  _  |   __|___|  _  |  ||_   _|   __|  _  |  [+]  «When you lose fun and start doing things only  ║
-  ║  |    -|   __|___|     |  |__| | |   __|    -|  [|]                  for the payback, you're dead.»  ║
-  ║  |__|__|_____|   |__|__|_____|_| |_____|__|__|  [+]                                    © Phrack #65  ║
-  ║                                                                                                      ║
-  ╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+╔══[ X.77 ]═══════════════════════════════════════════════════════════════════════════════════════════════[ X ]══╗
+║   _____ _____ _____ _____   _________________________________________________________________________________  ║
+║  |  _  |___  |   | |     | [+] WARNING: The information contained on this account is supplied "as-is" with     ║
+║  |    -|___  | | | | [/] | [|] no warranties or guarantees of fitness of use or otherwise. R3n0 accept no      ║
+║  |__|__|_____|_|___|_____| [\] responsibility for any damage caused by the use or misuse of this information.  ║
+║                                                                                                                ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════[ www.r3n0.ru ]══╝
 </pre>
 
 <!--
 	# Life’s just a game and lucky you, you're playing it with me.
-	# 💬 Website: re-alter.ru | 💬 Telegram: @re_alter | 💬 VK: @re_alter
+	# 💬 Website: r3n0.ru | 💬 Telegram: @r3n0_tech
 -->
-💬 Website: re-alter.ru | 💬 Telegram: @re_alter | 💬 VK: @re_alter
+💬 Website: r3n0.ru | 💬 Telegram: @r3n0_tech
